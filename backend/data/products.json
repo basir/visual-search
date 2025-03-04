@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Blue Denim Jacket",
+    "price": 89.99,
+    "image_url": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0"
+  },
+  {
+    "id": 3,
+    "name": "Premium Leather Chelsea Boots",
+    "price": 149.99,
+    "image_url": "https://images.unsplash.com/photo-1605812860427-4024433a70fd"
+  },
+  {
+    "id": 4,
+    "name": "Organic Cotton V-Neck T-Shirt",
+    "price": 29.99,
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+  },
+  {
+    "id": 5,
+    "name": "Oversized Comfort Hoodie",
+    "price": 54.99,
+    "image_url": "https://images.unsplash.com/photo-1556821840-3a63f95609a7"
+  },
+  {
+    "id": 6,
+    "name": "Silk Striped Blouse",
+    "price": 69.99,
+    "image_url": "https://images.unsplash.com/photo-1598961942613-ba897716405b"
+  },
+  {
+    "id": 7,
+    "name": "Slim Fit Chino Pants",
+    "price": 59.99,
+    "image_url": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80"
+  },
+  {
+    "id": 8,
+    "name": "Pleated Midi Skirt",
+    "price": 49.99,
+    "image_url": "https://images.unsplash.com/photo-1577900232427-18219b9166a0"
+  },
+  {
+    "id": 9,
+    "name": "Leather Biker Jacket",
+    "price": 199.99,
+    "image_url": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504"
+  },
+  {
+    "id": 10,
+    "name": "Cashmere Turtleneck Sweater",
+    "price": 129.99,
+    "image_url": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531"
+  },
+  {
+    "id": 11,
+    "name": "High-Waisted Skinny Jeans",
+    "price": 79.99,
+    "image_url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246"
+  },
+  {
+    "id": 12,
+    "name": "Linen Button-Down Shirt",
+    "price": 64.99,
+    "image_url": "https://images.unsplash.com/photo-1603252109303-2751441dd157"
+  },
+  {
+    "id": 13,
+    "name": "Wool Peacoat",
+    "price": 189.99,
+    "image_url": "https://images.unsplash.com/photo-1544923246-77307dd654cb"
+  },
+  {
+    "id": 14,
+    "name": "Athletic Performance Leggings",
+    "price": 44.99,
+    "image_url": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c"
+  },
+  {
+    "id": 15,
+    "name": "Printed Wrap Dress",
+    "price": 89.99,
+    "image_url": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1"
+  },
+  {
+    "id": 16,
+    "name": "Cargo Utility Pants",
+    "price": 69.99,
+    "image_url": "https://images.unsplash.com/photo-1517438322307-e67111335449"
+  },
+  {
+    "id": 17,
+    "name": "Cropped Denim Jacket",
+    "price": 74.99,
+    "image_url": "https://images.unsplash.com/photo-1578681994506-b8f463449011"
+  },
+  {
+    "id": 20,
+    "name": "Canvas Sneakers",
+    "price": 49.99,
+    "image_url": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6"
+  },
+  {
+    "id": 21,
+    "name": "Quilted Winter Jacket",
+    "price": 129.99,
+    "image_url": "https://images.unsplash.com/photo-1557418669-db3f781a58c0"
+  },
+  {
+    "id": 23,
+    "name": "Wide-Leg Trousers",
+    "price": 84.99,
+    "image_url": "https://images.unsplash.com/photo-1509631179647-0177331693ae"
+  },
+  {
+    "id": 24,
+    "name": "Graphic Print T-Shirt",
+    "price": 34.99,
+    "image_url": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9"
+  },
+  {
+    "id": 25,
+    "name": "Leather Crossbody Bag",
+    "price": 79.99,
+    "image_url": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa"
+  },
+  {
+    "id": 26,
+    "name": "Denim Mini Skirt",
+    "price": 44.99,
+    "image_url": "https://images.unsplash.com/photo-1592301933927-35b597393c0a"
+  },
+  {
+    "id": 27,
+    "name": "Velvet Blazer",
+    "price": 119.99,
+    "image_url": "https://images.unsplash.com/photo-1592878904946-b3cd8ae243d0"
+  },
+  {
+    "id": 28,
+    "name": "Cotton Polo Shirt",
+    "price": 39.99,
+    "image_url": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99"
+  },
+  {
+    "id": 29,
+    "name": "Floral Kimono",
+    "price": 69.99,
+    "image_url": "https://images.unsplash.com/photo-1522849696084-818b29dfe210"
+  },
+  {
+    "id": 30,
+    "name": "Leather Ankle Boots",
+    "price": 139.99,
+    "image_url": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2"
+  },
+  {
+    "id": 31,
+    "name": "Printed Maxi Skirt",
+    "price": 79.99,
+    "image_url": "https://images.unsplash.com/photo-1583397758920-86c1cb75b8fe"
+  },
+  {
+    "id": 32,
+    "name": "Cropped Sweater",
+    "price": 49.99,
+    "image_url": "https://images.unsplash.com/photo-1576566588028-4147f3842f27"
+  },
+  {
+    "id": 33,
+    "name": "Tailored Blazer",
+    "price": 129.99,
+    "image_url": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35"
+  },
+  {
+    "id": 34,
+    "name": "Distressed Jeans",
+    "price": 89.99,
+    "image_url": "https://images.unsplash.com/photo-1604176354204-9268737828e4"
+  },
+  {
+    "id": 35,
+    "name": "Silk Camisole",
+    "price": 44.99,
+    "image_url": "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5"
+  },
+  {
+    "id": 36,
+    "name": "Utility Jumpsuit",
+    "price": 99.99,
+    "image_url": "https://images.unsplash.com/photo-1583759136431-9d70db2eb04c"
+  },
+  {
+    "id": 37,
+    "name": "Leather Tote Bag",
+    "price": 149.99,
+    "image_url": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7"
+  },
+  {
+    "id": 38,
+    "name": "Printed Sundress",
+    "price": 69.99,
+    "image_url": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03"
+  },
+  {
+    "id": 39,
+    "name": "Denim Overalls",
+    "price": 94.99,
+    "image_url": "https://images.unsplash.com/photo-1494228766058-1430438d10fc"
+  },
+  {
+    "id": 41,
+    "name": "Ribbed Tank Top",
+    "price": 24.99,
+    "image_url": "https://images.unsplash.com/photo-1469334031218-e382a71b716b"
+  },
+  {
+    "id": 42,
+    "name": "Pleated Trousers",
+    "price": 89.99,
+    "image_url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1"
+  },
+  {
+    "id": 43,
+    "name": "Knit Beanie",
+    "price": 24.99,
+    "image_url": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9"
+  },
+  {
+    "id": 44,
+    "name": "Plaid Shirt",
+    "price": 59.99,
+    "image_url": "https://images.unsplash.com/photo-1589310243389-96a5483213a8"
+  },
+  {
+    "id": 45,
+    "name": "Leather Belt",
+    "price": 34.99,
+    "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+  },
+  {
+    "id": 46,
+    "name": "Slip Dress",
+    "price": 79.99,
+    "image_url": "https://images.unsplash.com/photo-1595777457583-95e059d581b8"
+  },
+  {
+    "id": 48,
+    "name": "Wool Scarf",
+    "price": 39.99,
+    "image_url": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9"
+  },
+  {
+    "id": 49,
+    "name": "Platform Sneakers",
+    "price": 79.99,
+    "image_url": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a"
+  },
+  {
+    "id": 52,
+    "name": "Oversized Shirt",
+    "price": 64.99,
+    "image_url": "https://images.unsplash.com/photo-1604695573706-53170668f6a6"
+  },
+  {
+    "id": 53,
+    "name": "Denim Shorts",
+    "price": 49.99,
+    "image_url": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b"
+  },
+  {
+    "id": 55,
+    "name": "Canvas Tote Bag",
+    "price": 39.99,
+    "image_url": "https://images.unsplash.com/photo-1544816155-12df9643f363"
+  },
+  {
+    "id": 56,
+    "name": "Bomber Jacket",
+    "price": 109.99,
+    "image_url": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea"
+  },
+  {
+    "id": 57,
+    "name": "Wrap Top",
+    "price": 44.99,
+    "image_url": "https://images.unsplash.com/photo-1578587018452-892bacefd3f2"
+  },
+  {
+    "id": 58,
+    "name": "High-Top Sneakers",
+    "price": 84.99,
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  },
+  {
+    "id": 59,
+    "name": "Palazzo Pants",
+    "price": 79.99,
+    "image_url": "https://images.unsplash.com/photo-1584273143981-41c073dfe8f8"
+  },
+  {
+    "id": 60,
+    "name": "Denim Shirt",
+    "price": 69.99,
+    "image_url": "https://images.unsplash.com/photo-1588359348347-9bc6cbbb689e"
+  },
+  {
+    "id": 61,
+    "name": "Leather Gloves",
+    "price": 49.99,
+    "image_url": "https://images.unsplash.com/photo-1556774687-0e2fdd0116c0"
+  },
+  {
+    "id": 62,
+    "name": "Printed Jumpsuit",
+    "price": 119.99,
+    "image_url": "https://images.unsplash.com/photo-1595341888016-a392ef81b7de"
+  },
+  {
+    "id": 63,
+    "name": "Bucket Hat",
+    "price": 29.99,
+    "image_url": "https://images.unsplash.com/photo-1556306535-0f09a537f0a3"
+  },
+  {
+    "id": 65,
+    "name": "Track Pants",
+    "price": 54.99,
+    "image_url": "https://images.unsplash.com/photo-1556906781-9a412961c28c"
+  },
+  {
+    "id": 67,
+    "name": "Leather Wallet",
+    "price": 44.99,
+    "image_url": "https://images.unsplash.com/photo-1627123424574-724758594e93"
+  },
+  {
+    "id": 68,
+    "name": "Ruffle Blouse",
+    "price": 59.99,
+    "image_url": "https://images.unsplash.com/photo-1597113366853-fea190b6cd82"
+  },
+  {
+    "id": 69,
+    "name": "Cargo Jacket",
+    "price": 99.99,
+    "image_url": "https://images.unsplash.com/photo-1578932750294-f5075e85f44a"
+  },
+  {
+    "id": 71,
+    "name": "Puffer Vest",
+    "price": 89.99,
+    "image_url": "https://images.unsplash.com/photo-1551489186-cf8726f514f8"
+  },
+  {
+    "id": 73,
+    "name": "Boyfriend Jeans",
+    "price": 84.99,
+    "image_url": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09"
+  },
+  {
+    "id": 74,
+    "name": "Baseball Cap",
+    "price": 24.99,
+    "image_url": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b"
+  },
+  {
+    "id": 75,
+    "name": "Running Shoes",
+    "price": 119.99,
+    "image_url": "https://images.unsplash.com/photo-1562183241-b937e95585b6"
+  },
+  {
+    "id": 77,
+    "name": "Pencil Skirt",
+    "price": 59.99,
+    "image_url": "https://images.unsplash.com/photo-1583744946564-b52ac1c389c8"
+  },
+  {
+    "id": 78,
+    "name": "Denim Dress",
+    "price": 89.99,
+    "image_url": "https://images.unsplash.com/photo-1596783074918-c84cb06531ca"
+  },
+  {
+    "id": 80,
+    "name": "Crop Top",
+    "price": 29.99,
+    "image_url": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c"
+  },
+  {
+    "id": 81,
+    "name": "Trench Coat",
+    "price": 159.99,
+    "image_url": "https://images.unsplash.com/photo-1520012218364-3dbe62c99bee"
+  },
+  {
+    "id": 82,
+    "name": "Yoga Pants",
+    "price": 54.99,
+    "image_url": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26"
+  },
+  {
+    "id": 83,
+    "name": "Knit Hat",
+    "price": 24.99,
+    "image_url": "https://images.unsplash.com/photo-1510598969022-c4c6c5d05769"
+  },
+  {
+    "id": 84,
+    "name": "Oxford Shirt",
+    "price": 64.99,
+    "image_url": "https://images.unsplash.com/photo-1563630423918-b58f07336ac9"
+  },
+  {
+    "id": 85,
+    "name": "Crossbody Bag",
+    "price": 59.99,
+    "image_url": "https://images.unsplash.com/photo-1594633313593-bab3825d0caf"
+  },
+  {
+    "id": 86,
+    "name": "Maxi Dress",
+    "price": 99.99,
+    "image_url": "https://images.unsplash.com/photo-1600502281976-e0e31b326509"
+  },
+  {
+    "id": 87,
+    "name": "Track Jacket",
+    "price": 74.99,
+    "image_url": "https://images.unsplash.com/photo-1617952236317-0bd127407984"
+  },
+  {
+    "id": 89,
+    "name": "Slip-on Sneakers",
+    "price": 64.99,
+    "image_url": "https://images.unsplash.com/photo-1491553895911-0055eca6402d"
+  },
+  {
+    "id": 91,
+    "name": "Cargo Pants",
+    "price": 79.99,
+    "image_url": "https://images.unsplash.com/photo-1517438476312-10d79c077509"
+  },
+  {
+    "id": 92,
+    "name": "Denim Vest",
+    "price": 59.99,
+    "image_url": "https://images.unsplash.com/photo-1495105787522-5334e3ffa0ef"
+  },
+  {
+    "id": 94,
+    "name": "Wrap Skirt",
+    "price": 54.99,
+    "image_url": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa"
+  },
+  {
+    "id": 96,
+    "name": "Henley Shirt",
+    "price": 39.99,
+    "image_url": "https://images.unsplash.com/photo-1618517351616-38fb9c5210c6"
+  },
+  {
+    "id": 97,
+    "name": "Leather Loafers",
+    "price": 89.99,
+    "image_url": "https://images.unsplash.com/photo-1491897554428-130a60dd4757"
+  },
+  {
+    "id": 98,
+    "name": "Printed Romper",
+    "price": 69.99,
+    "image_url": "https://images.unsplash.com/photo-1562137369-1a1a0bc66744"
+  },
+  {
+    "id": 100,
+    "name": "Canvas Belt Bag",
+    "price": 34.99,
+    "image_url": "https://images.unsplash.com/photo-1598532163257-ae3c6b2524b6"
+  }
+]

@@ -1,0 +1,36 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - '3000:3000'
+    environment:
+      - NODE_ENV=production
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - '8000:8000'
+    volumes:
+      - ./backend:/app
+      - model_cache:/root/.cache
+      - image_cache:/app/data/image_cache
+      - data_volume:/app/data
+    environment:
+      - PYTHONUNBUFFERED=1
+      - TOKENIZERS_PARALLELISM=false
+      - TORCH_HOME=/root/.cache/torch
+      - PYTHONDONTWRITEBYTECODE=1 # Prevents Python from writing .pyc files
+      - LOG_LEVEL=debug
+    restart: unless-stopped
+
+volumes:
+  model_cache: # Persistent volume for model storage
+  image_cache: # Dedicated volume for image cache
+  data_volume: # Persistent volume for other application data
