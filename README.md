@@ -51,17 +51,17 @@ npm run dev
 
 For local development of the backend:
 
-1. Navigate to the backend directory:
+1. Create and activate a virtual environment:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+2. Navigate to the backend directory:
 
 ```bash
 cd backend
-```
-
-2. Create and activate a virtual environment:
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 3. Install dependencies:
